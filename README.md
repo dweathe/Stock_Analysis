@@ -21,8 +21,7 @@ Our client Steve, just graduated with a finance degree from college.  His parent
 ## Results
 The comparison of stock performance between years 2017 and 2018, favor 2017 in that there was more growth in the selected stocks.
 
-Images and Examples go here
-Execution times here...I didn't take screen shots of the refactored code....
+For the comparison of 2017 and 2018, please view the Resources folder.
 
 ## Summary
 The comparison of stock performance between years 2017 and 2018, favor 2017 in that there was more growth in the selected stocks.
