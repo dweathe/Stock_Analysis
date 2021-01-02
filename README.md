@@ -12,8 +12,6 @@ The purpose of our work is to analyze a handful of Green Energy stock to determi
 ### Updated Workbook 
 ![VBA_Challenge](VBA_Challenge.xlsm)
 
-### Folder with PNG's of some of the pop-ups with script run time
-
 
 # Written Analysis of Results
 
