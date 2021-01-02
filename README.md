@@ -10,7 +10,7 @@ Deliverable 2: A written analysis of the results (README.md)
 The purpose of our work is to analyze a handful of Green Energy stock to determine which stocks would be most profitable for investment.
 
 ### Updated Workbook 
-![VBA_Challenge](BOOTCAMP/VBA_Challenge.png)
+![VBA_Challenge](VBA_Challenge.xlsm)
 
 ### Folder with PNG's of some of the pop-ups with script run time
 
